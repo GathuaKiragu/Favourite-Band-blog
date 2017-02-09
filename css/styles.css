@@ -1,0 +1,32 @@
+ h1{
+ 	text-align: center;
+ 	color: red;
+ }
+
+ .column{
+ 	float: left;
+ 	width: 900px;
+ }
+
+.events {
+	width: 300px;
+	float: right;
+	border: 10px;
+	border-style: dotted;
+	color: green;
+	font-style: italic;
+	}
+
+.span {
+	color: Orange;
+	text-align: center;
+	size: 26px;
+}
+
+img{
+	float: left;
+
+}
+body{
+	background-color: lightblue;
+}
